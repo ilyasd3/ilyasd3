@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm ilyas</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyasd3&label=Profile%20views&color=0e75b6&style=flat" alt="ilyasd3" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ilyas-dasti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilyas-dasti" height="30" width="40" /></a>
@@ -11,3 +8,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilyasd3&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=8&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasd3&theme=dark&border_radius=8&langs_count=8&layout=compact)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyasd3&label=Profile%20views&color=0e75b6&style=flat" alt="ilyasd3" /> </p>
