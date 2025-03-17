@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm ilyas</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyasd3&label=Profile%20views&color=0e75b6&style=flat" alt="ilyasd3" /> </p>
 
-- 🔭 I’m currently working on a [Wildfire Monitoring System](https://github.com/ilyasd3/wildfire-monitoring)
-
-- 🌱 I’m currently learning **Docker and Kubernetes**
-
-- 🤝 I’m looking for help with **contributing to open source**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ilyas-dasti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilyas-dasti" height="30" width="40" /></a>
